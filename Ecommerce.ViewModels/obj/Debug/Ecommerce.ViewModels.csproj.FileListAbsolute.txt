@@ -1,0 +1,6 @@
+C:\dev\WebApp\API\Ecommerce\Ecommerce.ViewModels\bin\Debug\Ecommerce.ViewModels.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.ViewModels\bin\Debug\Ecommerce.ViewModels.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.ViewModels\obj\Debug\Ecommerce.ViewModels.csproj.CoreCompileInputs.cache
+C:\dev\WebApp\API\Ecommerce\Ecommerce.ViewModels\obj\Debug\Ecommerce.ViewModels.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.ViewModels\obj\Debug\Ecommerce.ViewModels.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.ViewModels\obj\Debug\Ecommerce.ViewModels.csprojResolveAssemblyReference.cache

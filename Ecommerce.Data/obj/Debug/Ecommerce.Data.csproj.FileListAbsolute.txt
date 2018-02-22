@@ -1,0 +1,11 @@
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll.config
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Data.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\bin\Debug\Ecommerce.Data.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\bin\Debug\EntityFramework.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\bin\Debug\EntityFramework.xml
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\obj\Debug\Ecommerce.Data.csproj.CoreCompileInputs.cache
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\obj\Debug\Ecommerce.Data.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\obj\Debug\Ecommerce.Data.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Data\obj\Debug\Ecommerce.Data.csprojResolveAssemblyReference.cache

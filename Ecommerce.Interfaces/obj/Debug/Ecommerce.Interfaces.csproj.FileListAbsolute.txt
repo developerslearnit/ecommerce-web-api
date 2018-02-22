@@ -1,0 +1,13 @@
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\bin\Debug\Ecommerce.Interfaces.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\bin\Debug\Ecommerce.Interfaces.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\obj\Debug\Ecommerce.Interfaces.csprojResolveAssemblyReference.cache
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\obj\Debug\Ecommerce.Interfaces.csproj.CoreCompileInputs.cache
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\obj\Debug\Ecommerce.Interfaces.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\obj\Debug\Ecommerce.Interfaces.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\bin\Debug\Ecommerce.ViewModels.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\bin\Debug\Ecommerce.ViewModels.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\bin\Debug\Ecommerce.Data.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\bin\Debug\EntityFramework.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\bin\Debug\Ecommerce.Data.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\bin\Debug\Ecommerce.Data.dll.config
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Interfaces\bin\Debug\EntityFramework.xml

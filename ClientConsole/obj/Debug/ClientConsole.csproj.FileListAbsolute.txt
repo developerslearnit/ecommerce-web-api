@@ -1,0 +1,7 @@
+C:\dev\WebApp\API\Ecommerce\ClientConsole\bin\Debug\ClientConsole.exe.config
+C:\dev\WebApp\API\Ecommerce\ClientConsole\bin\Debug\ClientConsole.exe
+C:\dev\WebApp\API\Ecommerce\ClientConsole\bin\Debug\ClientConsole.pdb
+C:\dev\WebApp\API\Ecommerce\ClientConsole\obj\Debug\ClientConsole.csprojResolveAssemblyReference.cache
+C:\dev\WebApp\API\Ecommerce\ClientConsole\obj\Debug\ClientConsole.csproj.CoreCompileInputs.cache
+C:\dev\WebApp\API\Ecommerce\ClientConsole\obj\Debug\ClientConsole.exe
+C:\dev\WebApp\API\Ecommerce\ClientConsole\obj\Debug\ClientConsole.pdb

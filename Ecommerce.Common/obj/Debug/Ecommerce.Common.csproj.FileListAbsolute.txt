@@ -1,0 +1,6 @@
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Common\bin\Debug\Ecommerce.Common.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Common\bin\Debug\Ecommerce.Common.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Common\obj\Debug\Ecommerce.Common.csproj.CoreCompileInputs.cache
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Common\obj\Debug\Ecommerce.Common.dll
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Common\obj\Debug\Ecommerce.Common.pdb
+C:\dev\WebApp\API\Ecommerce\Ecommerce.Common\obj\Debug\Ecommerce.Common.csprojResolveAssemblyReference.cache

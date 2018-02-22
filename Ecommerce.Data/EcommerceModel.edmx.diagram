@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="aacef378073c4f08b5e437fa45711c47" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.Cart" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.ProductAttribute" Width="1.5" PointX="0.5" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.ProductImage" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_ProductAttribute_ProductAttribute" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="Model.Category" Width="1.5" PointX="0.75" PointY="2.125" />
+        <EntityTypeShape EntityType="Model.Product" Width="1.5" PointX="3" PointY="1.25" />
+        <AssociationConnector Association="Model.FK_Cart_Product" />
+        <AssociationConnector Association="Model.FK_Product_Category" />
+        <AssociationConnector Association="Model.FK_ProductImage_Product" />
+        <EntityTypeShape EntityType="Model.Consumer" Width="1.5" PointX="8" PointY="3.5" />
+        <EntityTypeShape EntityType="Model.Customer" Width="1.5" PointX="3.375" PointY="7" />
+        <EntityTypeShape EntityType="Model.CustomerAddress" Width="1.5" PointX="5.625" PointY="7" />
+        <AssociationConnector Association="Model.FK_CustomerAddress_Customer" />
+        <EntityTypeShape EntityType="Model.ProductReview" Width="1.5" PointX="8.625" PointY="6.25" />
+        <AssociationConnector Association="Model.FK_ProductReview_Customer" />
+        <AssociationConnector Association="Model.FK_ProductReview_Product" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
